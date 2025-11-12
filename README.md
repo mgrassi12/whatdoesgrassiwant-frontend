@@ -1,6 +1,6 @@
 # What Does Grassi Want? - Frontend Repo
 
-![Screenshot of the What Does Grassi Want website.](.\what-does-grassi-want.png)
+![Screenshot of the What Does Grassi Want website.](what-does-grassi-want.png)
 
 Front-end for [whatdoesgrassiwant.com](https://www.whatdoesgrassiwant.com), a simple wishlist site for sharing ideas with friends and family.
 
